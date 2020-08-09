@@ -1,0 +1,13 @@
+Created and ran VBA code to loop through all stocks on multiple tabs of data to summarize:
+  -The ticker symbol
+  -Yearly change from opening price to close price
+  -Percent change from open to close
+  -The total stock volume for each stock
+  
+Used conditional formatting to highlight positive and negative changes
+
+*Addtional challenge
+  -Used test data sheet to create a code to find the following from the summaries on each tab:
+    -Greatest % Increase
+    -Greatest % Decrease
+    -Greatest Total Stock Volume
