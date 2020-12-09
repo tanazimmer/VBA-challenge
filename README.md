@@ -7,10 +7,7 @@ Stock data in Excel made available for use.  The goal is to create a script that
   - The ticker symbol
   - Yearly change from opening price at beginning of year to opening price at end of year
   - Total Volume of the Stock
-
-Additional summary table with the Ticker and Value of:
-  - Greatest % Increase
-  - Greatest % Decrease
-  - Greatest Total Volume
   
 Conditional formatting used to highlight yearly change - red for negative change and green for positive change.
+
+![2014_Data](2014Data.jpg)
