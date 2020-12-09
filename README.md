@@ -10,4 +10,4 @@ Stock data in Excel made available for use.  The goal is to create a script that
   
 Conditional formatting used to highlight yearly change - red for negative change and green for positive change.
 
-![2014_Data](2014Data.jpg)
+![2014_Data](https://github.com/tanazimmer/VBA-challenge/blob/master/2014_Data.jpg)
